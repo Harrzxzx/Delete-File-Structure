@@ -1,5 +1,6 @@
 # Delete-File-Structure
 a windows app to remove the file structure and keep the files
+(ai used, idk how to code yet)
 
 EXAMPLE:
 root-

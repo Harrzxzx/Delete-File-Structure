@@ -13,6 +13,6 @@ root-
 
 turned to this
 root-                              
-  file1                                                
-  file2                                          
-  file3                                      
+  -file1                                                
+  -file2                                          
+  -file3                                      
